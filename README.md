@@ -1,4 +1,4 @@
-# Topological-Sort
+# Topological-Sort, Spring 2016
 This is a project for my Spring 2016 Data Structures and Algorithms class. It implements a topological sort for various data types.
 
 A full description of the assignment is available in DSTopologicalSortLabDescription.pdf
