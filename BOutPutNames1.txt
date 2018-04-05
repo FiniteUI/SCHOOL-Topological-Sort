@@ -1,0 +1,16 @@
+Enter 1 to sort integers or 2 to sort names:
+Enter the number of items:
+Enter the total number of relations:
+Enter first the precedent and then the successor for relation           1: 
+Enter first the precedent and then the successor for relation           2: 
+Enter first the precedent and then the successor for relation           3: 
+Enter first the precedent and then the successor for relation           4: 
+Enter first the precedent and then the successor for relation           5: 
+Result of topological sort:
+MARY
+JOE
+TOM
+SAM
+BOB
+BETTY
+The topological sort is complete.

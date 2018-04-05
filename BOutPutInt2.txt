@@ -1,0 +1,28 @@
+Enter 1 to sort integers or 2 to sort names:
+Enter the number of items:
+Enter the total number of relations:
+Enter first the precedent and then the successor for relation           1: 
+Enter first the precedent and then the successor for relation           2: 
+Enter first the precedent and then the successor for relation           3: 
+Enter first the precedent and then the successor for relation           4: 
+Enter first the precedent and then the successor for relation           5: 
+Enter first the precedent and then the successor for relation           6: 
+Enter first the precedent and then the successor for relation           7: 
+Enter first the precedent and then the successor for relation           8: 
+Enter first the precedent and then the successor for relation           9: 
+Enter first the precedent and then the successor for relation          10: 
+Enter first the precedent and then the successor for relation          11: 
+Enter first the precedent and then the successor for relation          12: 
+Enter first the precedent and then the successor for relation          13: 
+Enter first the precedent and then the successor for relation          14: 
+Enter first the precedent and then the successor for relation          15: 
+Enter first the precedent and then the successor for relation          16: 
+Result of topological sort:
+          3
+         10
+          2
+          4
+Error: Loop detected
+          1
+          5
+          1

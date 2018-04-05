@@ -1,0 +1,17 @@
+2
+6
+7
+Tom
+Bob
+Tom
+Sam
+Joe
+Sam
+Sam
+Betty
+Mary
+Sam
+Betty
+Joe
+Betty
+Mary
